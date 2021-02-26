@@ -1,0 +1,42 @@
+body {
+    background-image: url('0dff12883e37d102981a1cbf01401a64.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
+    height: 100%;
+}
+
+
+.me{
+    width: 300px;
+    margin-left: 5%;
+    margin-top: 8%;
+    float: left;
+    border: magenta double 13px;
+}
+
+p{
+    text-align: center;
+    margin-top: 14%;
+    width: 100%; 
+    padding: 20px; 
+    padding-left: 10%; 
+    border-bottom: dotted white 5px;
+    border-top: dotted white 5px;
+    border-radius: 10px;
+}
+
+.me2{
+    width: 300px;
+    margin-top: 10%;
+    float: right;
+    margin-right: 5%;
+    border: magenta double 13px;
+}
+
+
+
+
+
+
+

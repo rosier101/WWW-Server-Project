@@ -1,0 +1,84 @@
+h2{
+    text-align: center;
+    background-color: rgb(172, 248, 223);
+    font-size: 100px;
+
+   
+}
+
+.storehead{
+    color: white;
+    font-family: Brush Script MT, Brush Script Std, cursive;
+    font-size: 100px;
+}
+
+.shop-item-image{
+    width: 500px;
+}
+
+.shop-items {
+    display: flex;
+    justify-content: space-around;
+   
+}
+
+.shop-item-title {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: block;
+    width: 100%;
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;;
+    color: lightpink;
+}
+
+.btn-primary {
+    color: black;
+    background-color:rgb(172, 248, 223);
+    border: none;
+    border-radius: .3em;
+    font-weight: bold;
+}
+
+.btn {
+    text-align: center;
+    vertical-align: middle;
+    padding: .67em .67em;
+    cursor: pointer;
+    
+}
+
+.shop-item-price {
+    flex-grow: 1;
+    color: black;
+}
+
+.container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 0 1.5em;
+
+}
+
+.content-section {
+    margin: 1em;
+}
+
+.section-header {
+    font-weight: normal;
+    color: white;
+    font-family: Brush Script MT, Brush Script Std, cursive;
+    text-align: center;
+    font-size: 2.5em;
+}
+
+.cart-row {
+    display: flex;
+
+}
+
+div {
+    display: block;
+}
+
+

@@ -1,0 +1,60 @@
+body{
+    background-color: rgb(172, 248, 223);
+    height: 100%
+}
+
+.container-fluid, a{
+    background-color: lightpink;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+}
+
+.header{
+    text-align: center;
+    font-family:Brush Script MT, Brush Script Std, cursive;
+    color:mediumslateblue;
+    text-decoration: underline;
+    font-size: 50px;
+}
+
+.navbar-brand{
+    font-family:Brush Script MT, Brush Script Std, cursive;
+    font-size: 30px;
+}
+
+.first{
+    margin-top: 5%;
+    width: 630px;
+    height: 900px;
+}
+
+.second{
+    width: 630px;
+    height: 900px;
+    margin-top: 5%;
+}
+
+.third{
+    margin-top: 5%;
+    width: 630px;
+    height: 900px;
+}
+
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    
+}
+
+.border{
+    border-bottom: solid lightpink 10px;
+    margin-top: 2%;
+    
+}
+
+
+
+
+
+
+
